@@ -18,10 +18,10 @@ In the example below, the closed source model- GPT 3.5 Turbo is being interacted
 
 In the example below, the open source model- Llama 3 is being interacted with. 
 
-[![llama3_demo](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/rag_explanation.png)](#llama3)
+[![llama3_demo](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/rag_explanation.png)](#llama3) -->
 
 
-Coming soon -->
+Coming soon
 
 ## 🚀 About Me
 I leverage AI and cloud technologies to design and build scalable business and consumer facing products and services. I work with cross-functional teams to deliver end-to-end model development and deployment, using production grade programming and best practices. 
