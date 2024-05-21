@@ -7,8 +7,8 @@ Below is a diagram that explains the RAG process succinctly.
 
 
 
-<!-- ## Demo
-This app, hosted via Uvicorn using the LangChain/ LangServe framework, showcases both a closed source model like GPT 3.5 Turbo and an open source model like Llama 3 via Ollama. 
+## Demo
+<!-- This app, hosted via Uvicorn using the LangChain/ LangServe framework, showcases both a closed source model like GPT 3.5 Turbo and an open source model like Llama 3 via Ollama. 
 The LangChain frame work allows for a generic, model agnostic framework to be utilized. This allows us to scale and add more models, features, or swap models with ease.
 Both APIs can be used simultaneously. Both APIs were configured using the exact same prompt to compare apples to apples.
 
@@ -21,7 +21,7 @@ In the example below, the open source model- Llama 3 is being interacted with.
 [![llama3_demo](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/rag_explanation.png)](#llama3)
 
 
-Coming soon
+Coming soon -->
 
 ## 🚀 About Me
 I leverage AI and cloud technologies to design and build scalable business and consumer facing products and services. I work with cross-functional teams to deliver end-to-end model development and deployment, using production grade programming and best practices. 
@@ -33,4 +33,3 @@ I am deeply passionate about applying data science to solve real-world problems 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmedaman/)
 
 
- -->
