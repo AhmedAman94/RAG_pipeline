@@ -3,6 +3,7 @@
 In this repository are is a chatbot built on the open source LangChain framework and served on both stream lit web apps as well as API. The Models include open source models such as Llama 3 and Open AI's GPT 3.5 Turbo. A core component of the application is its RAG pipeline which will take files (both locally stored and from the web) and store the information in a vector store to provide more context to the model. 
 
 Below is a diagram that explains the RAG process succinctly. 
+[![rag explain](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/rag_explanation.png)](#rag)
 
 
 
@@ -17,7 +18,7 @@ In the example below, the closed source model- GPT 3.5 Turbo is being interacted
 
 In the example below, the open source model- Llama 3 is being interacted with. 
 
-[![llama3_demo](https://github.com/AhmedAman94/llm_powered_chatbot/blob/main/miscellaneous/screenshot_llama3_api.png)](#llama3)
+[![llama3_demo](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/rag_explanation.png)](#llama3)
 
 
 Coming soon
