@@ -6,3 +6,6 @@ scikit-learn
 pandas
 numpy
 openai
+chromadb
+tiktoken
+langchain-openai
