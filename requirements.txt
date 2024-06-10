@@ -7,5 +7,7 @@ pandas
 numpy
 openai
 chromadb
+faiss-cpu
 tiktoken
 langchain-openai
+
