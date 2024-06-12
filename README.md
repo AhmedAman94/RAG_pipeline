@@ -10,13 +10,13 @@ This app, hosted via Uvicorn using the LangChain/LangServe framework, showcases 
 
 In the example below, the app is being called via Uvicorn and Streamlit in the command line.
 
-![command](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/command.png)
-![ui](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/ui.png)
+![command](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/Screenshot%20terminal%20call.png)
+![ui](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/Screenshot%20Streamlit%20UI.png)
 
 In the example below, the app is being interacted with by giving it queries about the document.
 
 ![answer1](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/Screenshot%20Streamlit%20UI%20answer1.png)
-![answer2](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/answer2.png)
+![answer2](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/Screenshot%20Streamlit%20UI%20answer2.png)
 
 ## 🚀 About Me
 I leverage AI and cloud technologies to design and build scalable business and consumer-facing products and services. I work with cross-functional teams to deliver end-to-end model development and deployment, using production-grade programming and best practices.
