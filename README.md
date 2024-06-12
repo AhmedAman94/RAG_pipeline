@@ -8,20 +8,19 @@ Below is a diagram that explains the RAG process succinctly.
 
 
 ## Demo
-<!-- This app, hosted via Uvicorn using the LangChain/ LangServe framework, showcases both a closed source model like GPT 3.5 Turbo and an open source model like Llama 3 via Ollama. 
+This app, hosted via Uvicorn using the LangChain/ LangServe framework, showcases the RAG pipeline using GPT 4 turbo as the LLM of choice and a dense congressional hearing as the context. 
 The LangChain frame work allows for a generic, model agnostic framework to be utilized. This allows us to scale and add more models, features, or swap models with ease.
-Both APIs can be used simultaneously. Both APIs were configured using the exact same prompt to compare apples to apples.
 
-In the example below, the closed source model- GPT 3.5 Turbo is being interacted with. 
+In the example below, the app is being called via uvicorn and streamlit in the command line. 
 
-[![openai_demo](https://github.com/AhmedAman94/llm_powered_chatbot/blob/main/miscellaneous/screenshot_openai_api.png)](#openai)
+[![cmd](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/Screenshot terminal call.png)](#cmd)
+[![ui](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/Screenshot Streamlit UI.png)](#ui)
 
-In the example below, the open source model- Llama 3 is being interacted with. 
+In the example below, the app is being interacted with by giving it queries about the document. 
 
-[![llama3_demo](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/rag_explanation.png)](#llama3) -->
+[![query1](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/Screenshot Streamlit UI answer1.png)](#query1)
+[![query2](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/Screenshot Streamlit UI answer2.png)](#query2)
 
-
-Coming soon
 
 ## 🚀 About Me
 I leverage AI and cloud technologies to design and build scalable business and consumer facing products and services. I work with cross-functional teams to deliver end-to-end model development and deployment, using production grade programming and best practices. 

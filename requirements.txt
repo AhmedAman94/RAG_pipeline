@@ -10,4 +10,7 @@ chromadb
 faiss-cpu
 tiktoken
 langchain-openai
+streamlit
+fastapi 
+uvicorn
 
