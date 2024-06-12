@@ -10,12 +10,12 @@ This app, hosted via Uvicorn using the LangChain/LangServe framework, showcases 
 
 In the example below, the app is being called via Uvicorn and Streamlit in the command line.
 
-[![command](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/command.png)](#cmd)
+![command](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/command.png)
 ![ui](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/ui.png)
 
 In the example below, the app is being interacted with by giving it queries about the document.
 
-![answer1](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/answer1.png)
+![answer1](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/Screenshot%20Streamlit%20UI%20answer1.png)
 ![answer2](https://github.com/AhmedAman94/RAG_pipeline/blob/main/miscellaneous/answer2.png)
 
 ## 🚀 About Me
